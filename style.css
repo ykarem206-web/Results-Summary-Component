@@ -137,7 +137,7 @@ button:hover{
     background: linear-gradient(to bottom,hsl(252, 100%, 67%),hsl(241, 81%, 54%));
 }
 
-@media (max-width:375px){
+@media (max-width:600px){
     .container{
         display: flex;
         flex-direction: column;
